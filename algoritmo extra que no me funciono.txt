@@ -1,0 +1,18 @@
+	if(turnoUrgente[cont_urgentes_enEspera].tramite == URGENTE && turnoUrgente[cont_urgentes_enEspera].estado == EN_ESPERA)
+    {
+        for(cont_urgentes_enEspera<cont_urgentes; cont_urgentes_enEspera++)
+            {
+                    menor = minimo(turnoUrgente,cont_urgentes);
+                    printf("Proximo cliente URGENTE: %d\n",menor);
+                    break;
+            }
+    }
+    else
+    {
+         for(cont_regulares_enEspera=1;turnoRegular[cont_regulares_enEspera].tramite == REGULAR && turnoRegular[cont_regulares_enEspera].estado == EN_ESPERA && cont_regulares_enEspera<cont_regulares;cont_regulares_enEspera++)
+            {
+                menor = minimo(turnoRegular,cont_regulares);
+                printf("Proximo cliente REGULAR: %d\n",menor);
+                break;
+            }
+    }

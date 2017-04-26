@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1492646838 source:d:\meza geraldine\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492646964 d:\meza geraldine\tramites\misfunciones.h
+
+1492647282 source:d:\meza geraldine\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492706631 source:e:\utn\programación 2017\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492706820 e:\utn\programación 2017\tramites\misfunciones.h
+
+1492712460 source:e:\utn\programación 2017\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492706631 source:c:\temp\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492706820 c:\temp\tramites\misfunciones.h
+
+1492717859 source:c:\temp\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492718905 source:c:\users\alexis.chas\desktop\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492706820 c:\users\alexis.chas\desktop\tramites\misfunciones.h
+
+1492718109 source:c:\users\alexis.chas\desktop\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1493049902 source:h:\utn\programación 2017\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1493051042 h:\utn\programación 2017\tramites\misfunciones.h
+
+1493056596 source:h:\utn\programación 2017\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1493058584 source:c:\users\alexis\desktop\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1493051042 c:\users\alexis\desktop\tramites\misfunciones.h
+
+1493049902 source:c:\users\alexis\desktop\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492830110 source:l:\utn\programación 2017\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492830224 l:\utn\programación 2017\tramites\misfunciones.h
+
+1492740217 source:l:\utn\programación 2017\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492830110 source:c:\users\geral\desktop\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1492830224 c:\users\geral\desktop\tramites\misfunciones.h
+
+1492831091 source:c:\users\geral\desktop\tramites\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
