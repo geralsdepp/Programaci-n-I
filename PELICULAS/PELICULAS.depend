@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1493797533 source:l:\utn\programación.2017\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1493827204 l:\utn\programación.2017\peliculas\misfunciones.h
+
+1493827220 source:l:\utn\programación.2017\peliculas\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1493785724 l:\utn\programación.2017\peliculas\misvalidaciones.h
+
+1493788761 source:l:\utn\programación.2017\peliculas\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1493827334 source:e:\utn\programación.2017\peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+
+1493846957 e:\utn\programación.2017\peliculas\misfunciones.h
+
+1493827220 source:e:\utn\programación.2017\peliculas\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1493785724 e:\utn\programación.2017\peliculas\misvalidaciones.h
+
+1493788761 source:e:\utn\programación.2017\peliculas\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
