@@ -15,7 +15,9 @@ int main()
     S_Pelicula ficha[PELICULAS];
     S_Director dir[DIRECTORES];
 
-    inicializarArray(ficha,PELICULAS);
+    inicializarArray_Peliculas(ficha,PELICULAS);
+    inicializarArray_Directores(dir,DIRECTORES);
+
     do
     {
         opcion = menuOpcion();
@@ -26,7 +28,7 @@ int main()
             alta_peliculas(ficha,PELICULAS);
             break;
         case 2:
-
+            modificar_pelicula(ficha);
             break;
         case 3:
             baja_peliculas(ficha);
@@ -35,6 +37,7 @@ int main()
             nuevo_director(dir,DIRECTORES);
             break;
         case 5:
+            eliminar_director(dir);
 
             break;
         case 6:
